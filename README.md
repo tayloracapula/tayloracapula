@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tayloracapula
+- 👀 I’m interested in - Pc apps and IOT services
+- 🌱 I’m currently learning - Rust
+- 😄 Pronouns: He/They
