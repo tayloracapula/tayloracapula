@@ -1,4 +1,4 @@
 - 👋 Hi, I’m working on a basic backend api service
 - 👀 I’m interested in - Pc apps and IIOT services
-- 🌱 I’m currently learning - Rust
+- 🌱 I’m currently learning - Rust and C for functional low level programming 
 - 😄 Pronouns: They/Them
